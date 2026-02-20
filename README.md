@@ -12,6 +12,19 @@ The dataset is available on Hugging Face under the Apache 2.0 license and is fre
 
 ---
 
+## Screenshots
+
+<img width="1920" height="1112" alt="1" src="https://github.com/user-attachments/assets/0ed86fce-a545-4293-ad81-3a2126983d0a" />
+
+
+<img width="1920" height="1120" alt="2" src="https://github.com/user-attachments/assets/e6380e95-de22-4548-b256-6c24ef33d94d" />
+
+
+<img width="1916" height="1093" alt="3" src="https://github.com/user-attachments/assets/82249568-a881-4ef2-8143-2806b705c295" />
+
+
+---
+
 ## Sub-Domains
 
 - Breast Cancer
